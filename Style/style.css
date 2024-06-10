@@ -84,7 +84,7 @@ main{
 }
 
 footer{
-    text-align-last: center;
+    text-align: center;
     background-color: #2282ba;
     padding: 20px;
 }
